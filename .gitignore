@@ -1,0 +1,14 @@
+# Mod jars (downloaded by packwiz-installer)
+mods/*.jar
+
+# Resource packs and shader packs (downloaded by packwiz-installer)
+resourcepacks/*.zip
+shaderpacks/*.zip
+
+# Packwiz cache and installer
+packwiz.json
+packwiz-installer.jar
+
+# OS files
+.DS_Store
+Thumbs.db

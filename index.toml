@@ -126,11 +126,6 @@ hash = "3d69bef37e924253e746b3496adbff38495f92b994e460814dedd098ef07e250"
 metafile = true
 
 [[files]]
-file = "mods/create-aeronautics-sable-mass-view.pw.toml"
-hash = "3760a1b748076cc3961964ddbe29011cfc86d7ffdbec423d6afe777917a7d853"
-metafile = true
-
-[[files]]
 file = "mods/create-aeronautics-throwable-rope-connector.pw.toml"
 hash = "a4f8fc589da2ab1d415549747d41fc8200bd48c1bb05088d26c14a5640215f6d"
 metafile = true
@@ -431,16 +426,6 @@ hash = "aa9c0153e1c999afee554d19e5b61941de484d82e463e829a53d82176f91960d"
 metafile = true
 
 [[files]]
-file = "mods/sable-physics-compat.pw.toml"
-hash = "785cb5e2c385cdf779f3ced160e0ca85a2d12f139240ed5cee86242efd5ba565"
-metafile = true
-
-[[files]]
-file = "mods/sable.pw.toml"
-hash = "e4c43e944439f4941ba1c417ab3ac1ec3dbd9c95a8456a2069641d031317e142"
-metafile = true
-
-[[files]]
 file = "mods/scholar.pw.toml"
 hash = "22cb51ce41a475fedf6d0ac989d86a4a3c280d55e5a8f696ba50e39dd51d7cb8"
 metafile = true
@@ -528,11 +513,6 @@ metafile = true
 [[files]]
 file = "mods/wavey-capes.pw.toml"
 hash = "f84ae2e01bc4c7c5531ca9ab045be132ff32df0a572b408efc14f89ef636be01"
-metafile = true
-
-[[files]]
-file = "mods/waystones-sable.pw.toml"
-hash = "e1c4d32608e9da4e92c6151c445196b75eb6b41893cb1a64f4c5f0ba205ae97a"
 metafile = true
 
 [[files]]

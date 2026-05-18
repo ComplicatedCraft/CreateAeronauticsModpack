@@ -71,6 +71,16 @@ hash = "1d5cc2b6dcfd1fc3adba4566b1c29b57ff1175316678c1f22e63cbc3e28a5ba0"
 metafile = true
 
 [[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
+metafile = true
+
+[[files]]
+file = "mods/connector.pw.toml"
+hash = "e487d315e7a44f917cd1ddc2da1b26e65968bc19fe6c0ac868dab3d2bb97bbf1"
+metafile = true
+
+[[files]]
 file = "mods/continuity.pw.toml"
 hash = "2e082857985c7550efdad38a1997b9805051b07fb61b0cd30921e786a8521130"
 metafile = true
@@ -265,11 +275,6 @@ hash = "73360e397134d238ee8fd21d33fd7f9275e9441f74f8f1b6ed92278877c0b9f1"
 metafile = true
 
 [[files]]
-file = "mods/ferritecore.pw.toml"
-hash = "dff824171060c79b327a4880c2f0546c727a041a489ef3af643ec2dcd9cd0c48"
-metafile = true
-
-[[files]]
 file = "mods/forgified-fabric-api.pw.toml"
 hash = "a830f9e0393be04dd0a8a3a845b27e90cd34961887403c800e296182283d9c3e"
 metafile = true
@@ -425,6 +430,11 @@ hash = "a8e09044fb84c6b63782d68be84c899fbecebf7b70ee3f36a83bcff9e475d411"
 metafile = true
 
 [[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "73a55eea621f7f6db374ad6a12fce24fda8d7948b04b10462ccc38f7d077af80"
+metafile = true
+
+[[files]]
 file = "mods/resourcify.pw.toml"
 hash = "aa9c0153e1c999afee554d19e5b61941de484d82e463e829a53d82176f91960d"
 metafile = true
@@ -526,7 +536,7 @@ metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "7756678c5600a6d421f39ef00d4a25afd6ac6ba2d76ec9a10bd7536a8d4f8558"
+hash = "3e7c56ba98c31c0306431e93e2760912527b190db7e63501b2e692cf50d5d8ce"
 metafile = true
 
 [[files]]

@@ -86,8 +86,8 @@ hash = "415fb6fb5c2eedb83aee3e76eaa10b0414c4712de3c37a5a33bf1b700dc76f6a"
 metafile = true
 
 [[files]]
-file = "mods/copycats-aeronautics-weight.pw.toml"
-hash = "5e3e1807657a50181a5001027c888474c3b2852623cdb3f72b71cf10f49a0208"
+file = "mods/copycats+-aeronautics-weight.pw.toml"
+hash = "a1e68ec75524eb10a4522c27e3429a43c22861ac3c081686bd948a06bc4cfc91"
 metafile = true
 
 [[files]]
@@ -191,11 +191,6 @@ hash = "87a280b3f1851afa3300fa8f238fad2d1b4516e48886df1dcd19ff3d595fe616"
 metafile = true
 
 [[files]]
-file = "mods/create-structures-arise.pw.toml"
-hash = "ff56a2d8d66df7d8c9dfb7c659e9374c16c1d310dcebcf586636cc4f3b56d0d7"
-metafile = true
-
-[[files]]
 file = "mods/create-threaded-trains.pw.toml"
 hash = "5b38747d6ac0f9b216885a6a1d45508354a0ab6077d72510c73b65e147210ca5"
 metafile = true
@@ -224,6 +219,10 @@ metafile = true
 file = "mods/disable-minecolonies-abandoned-structures.pw.toml"
 hash = "eadc5c523a94b82ee8cbb6bd136975a5a3a41acab6f8f12bc7e2a237732f3379"
 metafile = true
+
+[[files]]
+file = "mods/disableminecoloniesabandonedstructures-1.21.1-1.0.2.jar"
+hash = "d77e0ef7da40e84df14eb177f0c183b6dfa8ed85b5a30040214e23b50a2f6fb3"
 
 [[files]]
 file = "mods/distant-horizons.pw.toml"

@@ -750,15 +750,6 @@ hash = "a8e09044fb84c6b63782d68be84c899fbecebf7b70ee3f36a83bcff9e475d411"
 metafile = true
 
 [[files]]
-file = "mods/reeses-sodium-options-neoforge-1.8.0-beta.4+mc1.21.1.jar"
-hash = "588de8214618f5b73cab65708463a627b3f4fa2a48631eb16827ef656a39ea5b"
-
-[[files]]
-file = "mods/reeses-sodium-options.pw.toml"
-hash = "73a55eea621f7f6db374ad6a12fce24fda8d7948b04b10462ccc38f7d077af80"
-metafile = true
-
-[[files]]
 file = "mods/resourcify.pw.toml"
 hash = "aa9c0153e1c999afee554d19e5b61941de484d82e463e829a53d82176f91960d"
 metafile = true

@@ -216,11 +216,6 @@ hash = "f92e7a06645e41ea1934dc420eb2772edb1708c0d71cb427baef8cf753acb934"
 metafile = true
 
 [[files]]
-file = "mods/disable-minecolonies-abandoned-structures.pw.toml"
-hash = "eadc5c523a94b82ee8cbb6bd136975a5a3a41acab6f8f12bc7e2a237732f3379"
-metafile = true
-
-[[files]]
 file = "mods/disableminecoloniesabandonedstructures-1.21.1-1.0.2.jar"
 hash = "d77e0ef7da40e84df14eb177f0c183b6dfa8ed85b5a30040214e23b50a2f6fb3"
 

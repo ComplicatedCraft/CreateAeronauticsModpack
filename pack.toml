@@ -1,12 +1,12 @@
 name = "Create Aeronautics Modpack"
 author = "PGSCOM"
-version = "1.0.1"
+version = "1.0.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "9cb55dde74b6f87482d0f2c6365d11d9e4fd9cca1006fa8443009c8b4c8c20bb"
+hash = "1df18ace94da6a87a6beb3a56c4e0485aa07dbf82e209fb229938191fc9128ab"
 
 [versions]
 minecraft = "1.21.1"

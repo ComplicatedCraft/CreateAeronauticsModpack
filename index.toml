@@ -561,38 +561,6 @@ hash = "539f362e9e192cf3b2813e0dfdfc51a5e6814129c6e82a9733842529beea6242"
 metafile = true
 
 [[files]]
-file = "resourcepacks/-1.21.2 Fresh Moves v3.1 (With Animated Eyes).zip"
-hash = "c433f3d831e86faa956836bf327ca00151bd813d1a8ab36aa064d518a58790f7"
-
-[[files]]
-file = "resourcepacks/Bare Bones 1.21.11.zip"
-hash = "698dad3fa24f2d96cf2edf5fbe6ce782adf4180c4d113e79dd0fc75f70617ad3"
-
-[[files]]
-file = "resourcepacks/Chat+ v.1.3.zip"
-hash = "e02e51196429d91ca24e881e23cac6df07b6448bc69001f6265e18cf4ba35a2c"
-
-[[files]]
-file = "resourcepacks/FreshAnimations_v1.10.4.zip"
-hash = "8e44b29560d2e7d952c0a4f77f0451e6dcb048f827189bffc712b446be8de7f2"
-
-[[files]]
-file = "resourcepacks/Icon Branding Remover - For 1.8-1.21.8.zip"
-hash = "bcac2d57426e2db6e78eeaff1bd23cfe954f01768274a3ecd3bf49261e26b47e"
-
-[[files]]
-file = "resourcepacks/Icons - Armor & Food Remover v.1.1.zip"
-hash = "05aedec90a027f3ba0d076fe109c08e988fb8bad2b68f494a36742432d416801"
-
-[[files]]
-file = "resourcepacks/Icons Compats.zip"
-hash = "11465292b8abf64c2e2d30e2c0d8a90ea5ff816c2bcb7051a40c0ba782e1ddf6"
-
-[[files]]
-file = "resourcepacks/Icons v.1.13.3.zip"
-hash = "cee59fa82d427e8ace2669254ef23650427e0cdff4f0fac6b90be79674baffe3"
-
-[[files]]
 file = "resourcepacks/bare-bones.pw.toml"
 hash = "4e07890bec25eadb6a671528dce288e5017f427191b178cb8d6373df192c4d6e"
 metafile = true
@@ -633,17 +601,9 @@ hash = "32fe0fe8941110f8fba07ce7768faa1797de6b28e961ab65b483c380fc0a365a"
 metafile = true
 
 [[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.8.zip"
-hash = "49b79e1bc0f63d5e143a9b6da855a11c9edacd3f1de758d73151db9ba4abd698"
-
-[[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
 hash = "844af68c07eac70b45bb488a7d9af2298cd6f2867d1ad33fd7abe94110dfedb1"
 metafile = true
-
-[[files]]
-file = "shaderpacks/lyrae-shaders-0.1.0a.zip"
-hash = "6efeb7fdf41c1e38cee9fda25358ebad3b604827f10abf02dac5f15115c845a2"
 
 [[files]]
 file = "shaderpacks/lyrae-shaders.pw.toml"
@@ -654,7 +614,3 @@ metafile = true
 file = "shaderpacks/photon-shader.pw.toml"
 hash = "e9112a2da03f65451c8c949331d71b92546bbd75ff78eac554d27f6c41e1ba29"
 metafile = true
-
-[[files]]
-file = "shaderpacks/photon_v1.3b.zip"
-hash = "120897768eaa8cb1f14a3e98f88dff009ae3204ee3b96904a4fe8586edfc1ead"

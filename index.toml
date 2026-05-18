@@ -750,11 +750,6 @@ hash = "a8e09044fb84c6b63782d68be84c899fbecebf7b70ee3f36a83bcff9e475d411"
 metafile = true
 
 [[files]]
-file = "mods/reeses-sodium-options.pw.toml"
-hash = "73a55eea621f7f6db374ad6a12fce24fda8d7948b04b10462ccc38f7d077af80"
-metafile = true
-
-[[files]]
 file = "mods/resourcify.pw.toml"
 hash = "aa9c0153e1c999afee554d19e5b61941de484d82e463e829a53d82176f91960d"
 metafile = true
@@ -820,11 +815,6 @@ metafile = true
 [[files]]
 file = "mods/sodium-neoforge-0.8.12-alpha.2+mc1.21.1.jar"
 hash = "6fb306747d28f3f38c29fbefc785d9a5723f263c51fdafbe1b0e7f8fbff9ca30"
-
-[[files]]
-file = "mods/sodium-options-api.pw.toml"
-hash = "d193173f0f5dfb4a921d44e29e8d5cee656dd3a40872939069715bb482b66fc9"
-metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"

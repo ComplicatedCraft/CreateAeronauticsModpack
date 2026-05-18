@@ -1,0 +1,13 @@
+name = "Create Aeronautics Modpack"
+author = "PGSCOM"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "d08604bd373ef39be837ce3ff65f7e40f4d358b8b9475a6c518b1b6277476eca"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.230"

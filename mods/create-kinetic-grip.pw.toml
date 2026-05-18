@@ -1,0 +1,13 @@
+name = "Create Aeronautics: Kinetic Grip"
+filename = "KineticGrip-1.21.1-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1540e458945815e53f5b813b5f664635ae277c19"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8046930
+project-id = 1523676

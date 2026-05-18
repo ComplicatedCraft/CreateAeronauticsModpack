@@ -1,0 +1,13 @@
+name = "Icons - Armor & Food Remover"
+filename = "Icons - Armor & Food Remover v.1.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/XsFesLGT/versions/w8QlQmXf/Icons%20-%20Armor%20%26%20Food%20Remover%20v.1.1.zip"
+hash-format = "sha512"
+hash = "0bca3df0ed2287e1c46503e2cadb746d26e9a0263d4399a5e7f3c3ee32601726b0413d484ff710965ac3cfa4dd9d4f5886c6922b521386e2edac9d95e60a49dd"
+
+[update]
+[update.modrinth]
+mod-id = "XsFesLGT"
+version = "w8QlQmXf"

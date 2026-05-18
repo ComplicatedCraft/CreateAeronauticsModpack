@@ -1,0 +1,8 @@
+name = "OpenFriend"
+filename = "OpenFriend-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/zerozshare/OpenFriendMod/releases/download/NeoForgeV1.0.9/OpenFriend-neoforge-1.21.1.jar"
+hash-format = "sha256"
+hash = "907d6f811f5d84e524548c077595936acd494d2094d9119f87ee69f7e9a942b3"
